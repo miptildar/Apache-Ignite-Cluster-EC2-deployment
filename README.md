@@ -1,4 +1,4 @@
-# Apache Ignit Cluster deployment in AWS cloud
+# Apache Ignite Cluster deployment in AWS cloud
 
 1. We are located at /home/ubuntu
 
